@@ -1,10 +1,22 @@
-# CISO360AI
+# CISO360AI - ARCHIVE 📦
 
-[CISO360AI](https://ciso360.ai/) ... 
+> **Status:** Archived – This repository has been archived and is no longer maintained.
 
-[![License](https://img.shields.io/github/license/ciso360ai/ciso360ai)](https://github.com/ciso360ai/ciso360ai/blob/main/LICENSE)
-[![CodeQL](https://github.com/ciso360ai/ciso360ai/actions/workflows/codeql.yml/badge.svg)](https://github.com/ciso360ai/ciso360ai/actions/workflows/codeql.yml)
-[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/ciso360ai/ciso360ai/badge)](https://scorecard.dev/viewer/?uri=github.com/ciso360ai/ciso360ai)
+The code remains available for reference only. No updates, fixes, or support will be provided on the legacy version.
+
+Check out **[CISO360AI](https://ciso360.ai/)** SaaS platform for active supported features:
+ * Multi-tenant cyberecurity GRC B2B2C cloud SaaS management platform with AI, RAG, MCP integrations
+ * Attack Surface Discovery: continuous discovery of assets, identities, domains, hosts, IPs, URLs, ports
+ * Offensive Toolchain: network and web assets scanning based on passive/active/offensive tools
+ * Vulnerability Management: continuous vulnerability management, triage, prioritisation, tracking and alerting
+ * Risk management: risk assessment and mitigation tracking
+ * Compliance: NIST CSF v2, ISO27, SOC2, GDPR, HIPAA, custom standards
+ * Identity assessment: dark-web compromised identity and IP scanner
+ * Collaboration: Escalation, sharing, alerting, third-party vendor assessments
+ * Gamification: Sidekick AI profiles for vCISO, vDFIR, vPurpleTeam, vSecOps, vDevSec
+
+## Why this repository was archived
+This repository has been archived as part of the evolution of the CISO360.ai platform.
 
 ## Features
  * Attack Surface Discovery: continuous discovery of assets, identities, domains, hosts, IPs, URLs, ports
@@ -197,11 +209,10 @@ For external Postgres:
 ```
 
 # References
-Icons:
-https://fonts.google.com/icons
 
-Regex domains:
-https://regexr.com/3au3g
+If you are looking for the current or supported version of CISO360.ai resources, please refer to:
+- 👉 **[CISO360AI](https://ciso360.ai/)**
+- 👉 **https://github.com/ciso360ai** (or the relevant active repository / documentation)
 
-Regex IP:
-https://regexr.com/38odc
+# License
+Copyright © 2020-2026 Altersec Ltd
